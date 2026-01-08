@@ -1,0 +1,6 @@
+name: student_manager_sqlite
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  sqlite3: ^2.4.0
